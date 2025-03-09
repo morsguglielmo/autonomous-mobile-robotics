@@ -1,4 +1,5 @@
-Autonomous and Mobile Robotics project - Guglielmo Morselli - 2024
+# Autonomous and Mobile Robotics project 
+### Guglielmo Morselli - Unibo - 2024
 
 # Task 1
 Provided an unknown environment, the robot is supposed to explore it to create its own map.
